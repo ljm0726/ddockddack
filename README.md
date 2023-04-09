@@ -30,26 +30,6 @@
 | 이종민 | [@ljm0726](https://github.com/ljm0726)                     |
 | 안기주 | [@GijuAhn](https://github.com/GijuAhn)                     |
 
-<p>
-<a href="https://github.com/Supreme-ignorance">
-  <img src="https://github.com/Supreme-ignorance.png" width="100">
-</a>
-<a href="https://github.com/OhSeSol">
-  <img src="https://github.com/OhSeSol.png" width="100">
-</a>
-<a href="https://github.com/verandaaa">
-  <img src="https://github.com/verandaaa.png" width="100">
-</a>
-<a href="https://github.com/sjy4974">
-  <img src="https://github.com/sjy4974.png" width="100">
-</a>
-<a href="https://github.com/ljm0726">
-  <img src="https://github.com/ljm0726.png" width="100">
-</a>
-<a href="https://github.com/GijuAhn">
-  <img src="https://github.com/GijuAhn.png" width="100">
-</a>
-</p>
 
 ## 목차
 
