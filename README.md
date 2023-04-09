@@ -9,6 +9,15 @@
 친구들끼리 사람 혹은 사물을 보며 서로 자기가 더 닮았다고 설전을 펼치신 적 있으신가요?<br>
 더 이상 그럴 필요 없습니다. '똑딱'이 4가지 이미지 분석 알고리즘을 이용해 누가 더 닮았는지 알려드리겠습니다.
 
+## 역할 
+- **이종민** : 팀원 - Back End
+  - 소셜 로그인 구현 / kakao, google OAuth2 Login API, Spring-security
+  - access Token 확인 filter 구현 / Spring boot
+  - 회원관련 기능 구현 / Spring boot
+  - 회원 관리 / Spring-security, JWT Token, Vue
+  - MyPage 데이터 바인딩 / Vuex
+  - MyPage 페이지 디자인 / Vue
+
 ## 팀원
 
 | 이름   | GitHub                                                     |
